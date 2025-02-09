@@ -1,6 +1,6 @@
 # Color-Palette-Picker
 # Team Members: Snehitha Dasari, Thirajana Shanmugasundaram, Meha Anand
-# Team Name:
+# Team Name: MST
 
 # Purpose of Project:
 # The purpose of this project is to assist artists, designers, and fashion enthusiasts in creating color palettes. Users can generate different color palettes based on a chosen base color, being able to explore complementary, analogous, and triadic colors. Furthermore, users can save and delete their favorite combinations for future reference.
